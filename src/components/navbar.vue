@@ -8,8 +8,12 @@
 
 <style scoped>
 nav {
-  background: #333;
   padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+
 }
 a {
   color: white;
